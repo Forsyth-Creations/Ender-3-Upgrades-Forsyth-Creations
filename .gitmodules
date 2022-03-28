@@ -1,0 +1,6 @@
+[submodule "Marlin Builds/DavidBTTv3SKRMini/Marlin"]
+	path = Marlin Builds/DavidBTTv3SKRMini/Marlin
+	url = https://github.com/bigtreetech/Marlin.git
+[submodule "Marlin Builds/Marlin Builds/Taz4Final2022_3_27"]
+	path = Marlin Builds/Marlin Builds/Taz4Final2022_3_27
+	url = https://github.com/bigtreetech/Marlin.git
